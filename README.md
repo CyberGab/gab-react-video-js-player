@@ -1,15 +1,15 @@
-# react-video-js-player
+# @cybergab/gab-react-video-js-player
 React wrapper for VideoJS. [Live Demo](https://karan101292.github.io/react-video-js-player/)
 
 ## Install
 ```
-npm install --save gab-react-video-js-player
+npm install --save @cybergab/gab-react-video-js-player
 ```
 
 ## Usage
 ```javascript
 import React, { Component } from 'react';
-import VideoPlayer from 'gab-react-video-js-player';
+import VideoPlayer from '@cybergab/gab-react-video-js-player';
 
 class VideoApp extends Component {
     player = {}

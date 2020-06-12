@@ -9,7 +9,7 @@ npm install --save gab-react-video-js-player
 ## Usage
 ```javascript
 import React, { Component } from 'react';
-import VideoPlayer from 'react-video-js-player';
+import VideoPlayer from 'gab-react-video-js-player';
 
 class VideoApp extends Component {
     player = {}

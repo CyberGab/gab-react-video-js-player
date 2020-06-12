@@ -3,7 +3,7 @@ React wrapper for VideoJS. [Live Demo](https://karan101292.github.io/react-video
 
 ## Install
 ```
-npm install --save react-video-js-player
+npm install --save gab-react-video-js-player
 ```
 
 ## Usage

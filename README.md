@@ -127,6 +127,12 @@ export default VideoApp;
       <td>Video will start playing automatically if <code>true</code></td>
     </tr>
     <tr>
+      <td>loop</td>
+      <td><code>boolean</code></td>
+      <td><code>false</code></td>
+      <td>Video play loop</td>
+    </tr>
+    <tr>
       <td>preload</td>
       <td><code>string</code></td>
       <td><code>auto</code></td>
